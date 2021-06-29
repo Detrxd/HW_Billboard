@@ -12,5 +12,5 @@ public class Films {
   private String pictureURL;
   private String filmName;
   private String filmStyle;
-
+//  private boolean
 }
